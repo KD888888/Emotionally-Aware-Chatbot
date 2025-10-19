@@ -46,18 +46,6 @@ Visualization: Plotly, Seaborn, Matplotlib
 
 Models: SamLowe/roberta-base-go_emotions, j-hartmann/emotion-english-distilroberta-base
 
-**How to Run**
-1. Clone the repo
-   git clone https://github.com/yourusername/emotion-aware-chatbot.git
-   cd emotion-aware-chatbot
-2. Create virtual environment
-   python -m venv venv
-   source venv/bin/activate   # or venv\Scripts\activate on Windows
-3. Install dependencies
-  pip install -r requirements.txt
-4. Run the Streamlit app
-   streamlit run main_backend.py
-
 **Business Use Case**
 
 Emotionally aware NLP systems are foundational in:
